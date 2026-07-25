@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/github/stars/cartova-app/cartova?style=for-the-badge&color=FFB000" alt="Stars" />
     </a>
     <a href="https://github.com/cartova-app/cartova/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/cartova-app/cartova?style=for-the-badge&color=FFB000" alt="License" />
+      <img src="https://img.shields.io/badge/License-ELv2-FFB000?style=for-the-badge" alt="License" />
     </a>
   </p>
 </div>
