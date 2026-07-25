@@ -22,7 +22,7 @@
 
 ---
 
-> _WARNING_
+> [!WARNING]
 >
 > 🚧 **Work in Progress:** Cartova is currently under heavy development. The APIs, architecture, and features are subject to change. It is **NOT** ready for production use yet. Please stay tuned for our first stable release!
 
